@@ -22,8 +22,8 @@ assets:
   - {seq: 2, filename: KR3ed034_002.yaml, hash: 'sha256:45dacc9d879d3a3c5f03d9a9d61fcc4f08e3327ff55dd65dd1b0cdc7fac24fbb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed034_000.markers.yaml, hash: 'sha256:a75b9ddc5bf81359d6d92dfd33e1b8938b01ad4eea60e386810f5c16baff2e0a'}
-  - {seq: 1, role: markers, filename: assets/KR3ed034_001.markers.yaml, hash: 'sha256:2d8f5e99d9d90042ffcaad0683cb34f96574a5ee27c93d8410115a79999012b0'}
-  - {seq: 2, role: markers, filename: assets/KR3ed034_002.markers.yaml, hash: 'sha256:2af5cec8ce85fbdb007469fc6aac83c671fbdb3b280ec22b199cffbe4f1c6fda'}
+  - {seq: 1, role: markers, filename: assets/KR3ed034_001.markers.yaml, hash: 'sha256:22f9757206c8b75ce575919290711fa6c1608c293150255dd20339b3acab60d1'}
+  - {seq: 2, role: markers, filename: assets/KR3ed034_002.markers.yaml, hash: 'sha256:7a30f902f221c3ab7b1a310533618e65aaae0ec7bb54451feb23ab3530db631e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -445,7 +445,7 @@ table_of_contents:
   label: 小兒第三十九
   type: section
   level: 2
-hash: sha256:6afdf594ad6e197b04dc88387a2b34262a2953b2976b0cfba99ea9d8754bb6c6
+hash: sha256:05fed27de2e74d73933ab4c3111855ddbf008749517e0d3b98d2597c9b7ff551
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
