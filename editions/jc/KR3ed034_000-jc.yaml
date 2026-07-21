@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3ed034/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序古有疾醫掌養萬民之疾病凡民之有疾病者分而治之死終則各書其所以而入於醫師於時民故得以壽終而無短折札瘥之患後世王政多缺而醫師之置徒備虛文廛市之氓富羨之室猶能自以其貲迎師而荒村窶戶否矣扣首抑心閔閔待斃此一患也草木禽魚之物五石之藥多聚於國都而陬窮壤僻之所即有高貲亦不能致錙銖此又一患也時師蹠𪾜恆以反劑殺人而茹悲吞螫不敢訟言其非此又一患也予蓋惻然傷之曩得急救方一本每攜以自隨或以自治或以治人率多徵應間有新得輒從其類附益之其訛舛無驗者則刪黜之遂付梓人刻焉夫人之情一也孰不愛其身亦孰不愛其父母骨肉乎而疾苦無所舒往往束手以斃不得已或竭力於禱禬機禳至蕩貲破產而卒莫攸濟也此其於仁孝之心何如哉是方而行庶幾濟於黔細萬分之一要非所以薦於隆富者乎皇明嘉靖二十九年歲次庚戌夏六月望四明芝園主人張時徹著
   hash: sha256:1bd120617c89c27f9100f715075e6c2bc8fce811d80fd2bff9e7f372f1854037
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3ed034_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 急救良方
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3ed034.xml
-hash: sha256:b3afbecf490dbf5c3291a6ce5d6faed07b007818a82ca7f5891a0c6c3af03c4e
+hash: sha256:c5a0cc9bf73a9f8b42a3bb54cd58f195573b603c310776b91acf75595a94ba95
